@@ -12,4 +12,4 @@
 
 ## Coding Activity
 
-<a href="https://github.com/cocomdidin"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cocomdidin&theme=vue-dark&layout=compact&custom_title=WakaTime%20Stats&v=2" width="100%" /></a>
+<a href="https://github.com/cocomdidin"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cocomdidin&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
