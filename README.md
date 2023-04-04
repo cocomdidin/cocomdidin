@@ -11,11 +11,11 @@
 
 <!-- <a href="https://github.com/cocomdidin"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" /></a> -->
 <div style="display:flex; flex-wrap:wrap;">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cocomdidin&theme=vue-dark&hide_border=false" height="150">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" height="150"/>
+    <a href="#"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cocomdidin&theme=vue-dark&hide_border=false" height="150"></a>
+    <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" height="150"/></a>
 </div>
 
 ## Coding Activity
 
-<a href="https://github.com/cocomdidin"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cocomdidin&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
+<a href="#"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cocomdidin&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
