@@ -4,17 +4,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/f57b1ba4-6b56-4ad8-9d93-97532ced3e7a.svg)](https://wakatime.com/@f57b1ba4-6b56-4ad8-9d93-97532ced3e7a)
 
-<!-- <a href="https://github.com/cocomdidin"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" /></a> -->
-<div style="display:flex; flex-wrap:wrap; justify-content: center;">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cocomdidin&theme=vue-dark&hide_border=false" height="150" align="right">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" />
-</div>
-
 - :earth_asia: Follow me on [Instagram](https://www.instagram.com/cocomdidin/) or [LinkedIn](https://www.linkedin.com/in/komarudin-375148208/)
 - :blue_book: Blogs [cocomdidin.github.io](https://cocomdidin.github.io/)
 
-</br></br>
+</br>
 
+<!-- <a href="https://github.com/cocomdidin"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" /></a> -->
+<div style="display:flex; flex-wrap:wrap;">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cocomdidin&theme=vue-dark&hide_border=false" height="200">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=cocomdidin&show_icons=true&count_private=true&hide=issues&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" height="200"/>
+</div>
 
 ## Coding Activity
 
