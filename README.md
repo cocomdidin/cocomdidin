@@ -1,11 +1,11 @@
+[![](https://visitcount.itsvg.in/api?id=xietsunzao&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ### Hi, I'm cocomdidin 👋
 
 - :earth_asia: Follow me on [Instagram](https://www.instagram.com/cocomdidin/) or [LinkedIn](https://www.linkedin.com/in/komarudin-375148208/)
 - :blue_book: Blogs [cocomdidin.github.io](https://cocomdidin.github.io/)
 
 </br>
-
-[![](https://visitcount.itsvg.in/api?id=xietsunzao&icon=0&color=1)](https://visitcount.itsvg.in)
 
 [![wakatime](https://wakatime.com/badge/user/f57b1ba4-6b56-4ad8-9d93-97532ced3e7a.svg)](https://wakatime.com/@f57b1ba4-6b56-4ad8-9d93-97532ced3e7a)
 
